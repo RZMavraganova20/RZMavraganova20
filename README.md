@@ -1,7 +1,7 @@
 # Hey👋, I am Raya Mavraganova!
-✨ I am a student at [VSCPI](https://www.codingburgas.bg/)👨🏻‍💻. 
+✨  I am a student at [VSCPI](https://www.codingburgas.bg/)👨🏻‍💻. 
 <br>
-I am currently studying C++, HTML 5 & CSS 3.💻. ✨
+I am currently studying C++, HTML 5 & CSS 3.💻  ✨
 
 ## My social medias📸
 
