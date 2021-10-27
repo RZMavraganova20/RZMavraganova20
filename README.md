@@ -2,6 +2,8 @@
 - I am a student at [VSCPI](https://www.codingburgas.bg/)👨🏻‍💻. 
 - I am currently studying C++, HTML 5 & CSS 3.💻
 
+<img align="right" height="250" alt="" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" />
+
 ## My social medias📸
 
  <a href = "https://www.instagram.com/rayaaa.zm/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
